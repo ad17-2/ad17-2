@@ -15,7 +15,8 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
 <img src="https://img.shields.io/badge/Airflow -563d7c" />
 <img src="https://img.shields.io/badge/SQL -FF0000" />  
 <img src="https://img.shields.io/badge/Java -1cc4b4" />
-<img src="https://img.shields.io/badge/Tensorflor -FF0000" />  
+<img src="https://img.shields.io/badge/Tensorflow -FF0000" />
+<img src="https://img.shields.io/badge/Flask -41b883" />
 
 </br>
 <details>
@@ -35,5 +36,7 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
 </br>
 </br>
 
-<a href="linkedin.com/in/aristifandi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="aristifandi.com"><img src="https://img.shields.io/badge/Personal-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Personal Web"></a>
+## Others
+
+<a href="http://linkedin.com/in/aristifandi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="http://aristifandi.com"><img src="https://img.shields.io/badge/Personal-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Personal Web"></a>
