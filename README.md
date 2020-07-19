@@ -36,4 +36,3 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
 ## Others
 
 <a href="http://linkedin.com/in/aristifandi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="http://aristifandi.com"><img src="https://img.shields.io/badge/Personal-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Personal Web"></a>
