@@ -1,16 +1,39 @@
-### Hi there 👋
+# 🖥 Data Engineer
 
-<!--
-**ad17-2/ad17-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Scientist.
 
-Here are some ideas to get you started:
+## I am passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Science
+- Data Engineering
+- Web Development
+
+## Skills
+
+<img src="https://img.shields.io/badge/Python-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
+<img src="https://img.shields.io/badge/Kafka -41b883" />
+<img src="https://img.shields.io/badge/Airflow -563d7c" />
+<img src="https://img.shields.io/badge/SQL -FF0000" />  
+<img src="https://img.shields.io/badge/Java -1cc4b4" />
+<img src="https://img.shields.io/badge/Tensorflor -FF0000" />  
+
+</br>
+<details>
+	<summary>Tools</summary>
+	<ul>
+    <li>Visual Studio Code</li>
+   </ul>
+</details>
+
+<details>
+	<summary>Operating Systems</summary>
+	<ul>
+		<li>Windows</li>
+    <li>Ubuntu</li>
+	</ul>
+</details>
+</br>
+</br>
+
+<a href="linkedin.com/in/aristifandi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="aristifandi.com"><img src="https://img.shields.io/badge/Personal-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Personal Web"></a>
