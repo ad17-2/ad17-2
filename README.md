@@ -10,7 +10,7 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
 
 ## Skills
 
-<img src="https://img.shields.io/badge/Python-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
+<img src="https://img.shields.io/badge/Python-ff7851" /> <img src="https://img.shields.io/badge/PHP-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
 <img src="https://img.shields.io/badge/Kafka -41b883" />
 <img src="https://img.shields.io/badge/Airflow -563d7c" />
 <img src="https://img.shields.io/badge/SQL -FF0000" />  
