@@ -18,7 +18,6 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
 <img src="https://img.shields.io/badge/Tensorflow -FF0000" />
 <img src="https://img.shields.io/badge/Flask -41b883" />
 
-</br>
 <details>
 	<summary>Tools</summary>
 	<ul>
@@ -33,8 +32,6 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Sci
     <li>Ubuntu</li>
 	</ul>
 </details>
-</br>
-</br>
 
 ## Others
 
