@@ -1,21 +1,21 @@
 # 🖥 Data Engineer
 
-Hi, I'm Ari Stifandi, a polyglot, passionate Data Engineer and aspiring Data Scientist.
+Hi, I'm Ari Stifandi, a polyglot, passionate Software Engineer.
 
 ## I am passionate about:
 
 - Data Science
 - Data Engineering
-- Web Development
+- Software Engineering
 
 ## Skills
 
 <img src="https://img.shields.io/badge/Python-ff7851" /> <img src="https://img.shields.io/badge/PHP-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
 <img src="https://img.shields.io/badge/Kafka -41b883" />
-<img src="https://img.shields.io/badge/Airflow -563d7c" />
+<img src="https://img.shields.io/badge/Laravel -563d7c" />
 <img src="https://img.shields.io/badge/SQL -FF0000" />  
 <img src="https://img.shields.io/badge/Java -1cc4b4" />
-<img src="https://img.shields.io/badge/Tensorflow -FF0000" />
+<img src="https://img.shields.io/badge/VueJS -FF0000" />
 <img src="https://img.shields.io/badge/Flask -41b883" />
 
 <details>
