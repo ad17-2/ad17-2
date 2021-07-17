@@ -5,8 +5,7 @@ Hi, I'm Ari Stifandi, a polyglot, passionate Software Engineer.
 ## I am passionate about:
 
 - Software Engineering
-- Data Science
-- Data Engineering
+- Stock Trading
 
 ## Skills
 
