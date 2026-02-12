@@ -16,11 +16,7 @@
 ## Current Projects
 
 - 🖥️ **[Claude Cockpit](https://github.com/ad17-2/claude-cockpit)** — Desktop dashboard for managing Claude AI projects, conversations, and settings. Tauri v2 + Svelte 5 + Rust.
-- 📖 **[Sermon Summary](https://github.com/ad17-2/sermon-summary)** — End-to-end pipeline that transcribes YouTube sermons via Whisper, summarizes with Claude, and serves bilingual (EN/ID) summaries through a Next.js app.
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/ad17-2)
+- 📖 **[Catatan Firman](https://github.com/ad17-2/catatan-firman)** — End-to-end pipeline that transcribes YouTube sermons via Whisper, summarizes with Claude, and serves Indonesian sermon summaries through a Next.js app.
 
 ## Connect
 
