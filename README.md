@@ -11,7 +11,7 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Building tools I want to use. FinTech by trade, tinkerer by default.
+> Building tools I want to use. Software Engineer by trade, tinkerer by default.
 
 ## Current Projects
 
