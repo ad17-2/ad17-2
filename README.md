@@ -3,6 +3,7 @@
 📍 **Worldwide** | 💻 **Software Engineer**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -17,6 +18,7 @@
 
 - 🖥️ **[Claude Cockpit](https://github.com/ad17-2/claude-cockpit)** — Desktop dashboard for managing Claude AI projects, conversations, and settings. Tauri v2 + Svelte 5 + Rust.
 - 📖 **[Catatan Firman](https://github.com/ad17-2/catatan-firman)** — End-to-end pipeline that transcribes YouTube sermons via Whisper, summarizes with Claude, and serves Indonesian sermon summaries through a Next.js app.
+- 📋 **[Requirement Maker](https://github.com/ad17-2/requirement-maker)** — CLI tool that converts audio/video recordings into comprehensive requirement documents. Whisper transcription + Claude generation with parallel processing.
 
 ## Connect
 
