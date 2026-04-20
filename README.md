@@ -6,6 +6,7 @@
 
 ## Current Projects
 
+- 📈 **[Macro Tracker](https://github.com/ad17-2/macro-tracker)** — Single-page macro situation dashboard. Python fetches daily market data, static HTML renders it with a risk-on/off signal scorecard.
 - 🚛 **[Logbook](https://github.com/ad17-2/logbook)** — ELD trip planner that generates FMCSA-compliant routes for truck drivers. Calculates mandatory HOS rest stops and produces daily log sheets with SVG duty-status charts. React 19 + Django 4.2 + Leaflet.
 - 📖 **[Catatan Firman](https://github.com/ad17-2/catatan-firman)** — End-to-end pipeline that transcribes YouTube sermons via Whisper, summarizes with Claude, and serves Indonesian sermon summaries through a Next.js app.
 - 📋 **[Requirement Maker](https://github.com/ad17-2/requirement-maker)** — CLI tool that converts audio/video recordings into comprehensive requirement documents. Whisper transcription + Claude generation with parallel processing.
