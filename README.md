@@ -13,6 +13,4 @@
 
 ## Connect
 
-[![Blog](https://img.shields.io/badge/-aristifandi.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://aristifandi.io)
-[![Calendly](https://img.shields.io/badge/-Book_a_call-006BFF?style=flat-square)](https://calendly.com/stifandiari/30min)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ad17-2)
+📝 [Blog](https://aristifandi.io) · 📅 [Book a call](https://calendly.com/stifandiari/30min) · 🐙 [GitHub](https://github.com/ad17-2)
