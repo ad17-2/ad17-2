@@ -15,4 +15,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Ari_Stifandi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aristifandi)
 [![Blog](https://img.shields.io/badge/-aristifandi.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://aristifandi.io)
+[![Calendly](https://img.shields.io/badge/-Book_a_call-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/stifandiari/30min)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ad17-2)
