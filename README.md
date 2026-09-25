@@ -1,17 +1,21 @@
-# Hi, I'm Ari 👋
+### Ari Stifandi
 
-📍 **Worldwide** | 💻 **Software Engineer**
+Senior software engineer, backend and LLM systems. Jakarta (GMT+7).
 
-> Building tools I want to use. Software Engineer by trade, tinkerer by default.
+8 years across AI SaaS, fintech and capital markets. I ship agentic AI features end to end, then own what keeps them alive: reliability, observability and infrastructure cost.
 
-## Current Projects
+#### Projects
 
-- 📈 **[Macro Tracker](https://github.com/ad17-2/macro-tracker)** — Single-page macro situation dashboard. Python fetches daily market data, static HTML renders it with a risk-on/off signal scorecard.
-- 🚛 **[Logbook](https://github.com/ad17-2/logbook)** — ELD trip planner that generates FMCSA-compliant routes for truck drivers. Calculates mandatory HOS rest stops and produces daily log sheets with SVG duty-status charts. React 19 + Django 4.2 + Leaflet.
-- 📖 **[Catatan Firman](https://github.com/ad17-2/catatan-firman)** — End-to-end pipeline that transcribes YouTube sermons via Whisper, summarizes with Claude, and serves Indonesian sermon summaries through a Next.js app.
-- 📋 **[Requirement Maker](https://github.com/ad17-2/requirement-maker)** — CLI tool that converts audio/video recordings into comprehensive requirement documents. Whisper transcription + Claude generation with parallel processing.
-- 💊 **[Reminder Message](https://github.com/ad17-2/reminder-message)** — Daily WhatsApp vitamin reminder via Fonnte + Railway cron.
+- [agent](https://github.com/ad17-2/agent): tool-calling agent library for TypeScript on the Vercel AI SDK. Multi-turn history, retries, per-run cost, a context budget and MCP tools.
+- [stacktail](https://github.com/ad17-2/stacktail): read-only MCP server that lets Claude Code query Loki logs and Sentry issues. Go.
+- [macro-map](https://macro.aristifandi.io): one-page macro dashboard for an investor in Indonesia. Every number says what it means. Python.
+- [logbook](https://github.com/ad17-2/logbook): trip planner for truck drivers with hours-of-service rest stops and daily log sheets. React, TypeScript, Django. [Live demo](https://logbook.aristifandi.io).
+- [requirement-maker](https://github.com/ad17-2/requirement-maker): CLI that turns meeting recordings into requirement docs with parallel Whisper and Claude passes.
 
-## Connect
+#### Stack
 
-📝 [Blog](https://aristifandi.io) · 📅 [Book a call](https://calendly.com/stifandiari/30min) · 🐙 [GitHub](https://github.com/ad17-2)
+Go, TypeScript, Python, Java · PostgreSQL, MongoDB, Redis, Kafka · GCP, AWS · MCP, LLM evals, RAG
+
+#### Contact
+
+[aristifandi.io](https://aristifandi.io) · [stifandiari@gmail.com](mailto:stifandiari@gmail.com) · [Book a call](https://calendly.com/stifandiari/30min)
